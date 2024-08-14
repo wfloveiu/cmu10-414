@@ -1,0 +1,4 @@
+/home/wufang/dlsyscourse/hw3/build/CMakeFiles/ndarray_backend_cpu.dir
+/home/wufang/dlsyscourse/hw3/build/CMakeFiles/ndarray_backend_cuda.dir
+/home/wufang/dlsyscourse/hw3/build/CMakeFiles/edit_cache.dir
+/home/wufang/dlsyscourse/hw3/build/CMakeFiles/rebuild_cache.dir
